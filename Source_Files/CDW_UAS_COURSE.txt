@@ -1,0 +1,41 @@
+#COURSE_CODE,COURSE_NAME,DEPARTMENT_NO,MARK_REQ
+101,Introduction to Eng.,451234,70
+102,Engineering Maths.,451234,70
+103,Physics for Eng.,451234,70            
+104,Computer Prog.,789345,70             
+105,Circuit Analysis,451234,70               
+106,Mechanical Eng.,789123,70            
+107,Materials Science,789123,70               
+108,Thermodynamics,451234,70               
+109,Electrical Eng.,552379,70               
+110,Civil Eng.,451234,70               
+111,Environmental Eng.,552379,70               
+112,Industrial Eng.,789345,70
+113,Eng. Design,552379,70               
+114,Control Systems,789345,70               
+115,Robotics,552379,70               
+116,Biomedical Eng.,789345,70               
+117,Aerospace Eng.,552379,70               
+118,Chemical Eng.,789345,70               
+119,Nuclear Eng.,675231,70               
+120,Petroleum Eng.,675231,70               
+121,Software Eng.,789345,70               
+122,Data Science,675231,70
+123,Machine Learning,789123,70               
+124,Electrical Pow. Sys.,675231,70
+125,Renewable Energy,789123,70               
+126,Structural Eng.,123900,70               
+127,Transportation Eng.,789123,70               
+128,Geotechnical Eng.,658921,70               
+129,Water Resources Eng.,789123,70               
+130,Surveying,675231,70               
+131,Urban Planning,789123,70               
+132,Communication Eng.,675231,70               
+133,Optical Eng.,658921,80               
+134,Acoustical Eng.,123900,70               
+135,Systems Eng.,658921,75               
+136,Nuclear Physics,123900,70               
+137,Quantum Mechanics,658921,70               
+138,Nanotechnology,123900,75               
+139,Industrial Automation,658921,70               
+140,Engineering Ethics,123900,70

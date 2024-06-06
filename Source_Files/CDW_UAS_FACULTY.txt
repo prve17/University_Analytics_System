@@ -1,0 +1,41 @@
+FACULTY_CODE,FACULTY_NAME,FACULTY_DESIGNATION,FACULTY_QUALIFICATION
+414877722,Emma Thomson,Associate Professor,Ph.D. in CSE
+962825827,Liam Johnson,Assistant Professor,Masters in Biology
+264193159,Olivia Williams,Senior Lecturer,Ph.D. in Mathematics
+067579093,Noah Brown,Professor,Masters in Chemistry
+172582113,Ava Garcia,Associate Professor,Ph.D. in Physics
+823936141,William Martinez,Assistant Professor,Masters in ENG LIT.
+266547592,Sophia Anderson,Senior Lecturer,Ph.D. in Economics
+624385021,James Thomas,Professor,Masters in Political Sci
+001906337,Isabella Jackson,Associate Professor,Ph.D. in Psy
+778650625,Lucas Lee,Assistant Professor,Masters in Sociology
+015366924,Mia Hernandez,Senior Lecturer,Ph.D. in Philosophy
+103452682,Amelia Smith,Professor,Masters in History
+279199482,John Smith,Department head,Ph.D. in Engineering
+404771903,Charlotte Rodriguez,Assistant Professor,Masters IN EVS
+267248075,Logan Lopez,Senior Lecturer,Ph.D. in Linguistics
+690314796,Aiden White,Professor,Masters in Business Admin.
+591036203,Ella Harris,Associate Professor,Ph.D. in Art History
+997093193,Benjamin Clark,Assistant Professor,Masters in Public Health
+734411895,Abigail Lewis,Senior Lecturer,Ph.D. in Astrophysics
+718550517,Emily Johnson,Department head,Masters in Music Edu.
+395500241,Emily Hall,Associate Professor,Ph.D. in Anthropology
+084204139,Jack Allen,Assistant Professor,Masters in International Rel.
+194089222,Sophie Young,Senior Lecturer,Ph.D. in Clinical Psy
+837615710,Oliver King,Professor,Masters in Urban Plan.
+812615133,Michael Davis,Department head,Ph.D. in Biochemistry
+040807833,Jacob Scott,Assistant Professor,Masters in Fine Arts
+259529437,Lily Green,Senior Lecturer,Ph.D. in Pharmacy
+610115200,Michael Adams,Professor,Masters in CSE
+508293104,Sarah Wilson,Department head,Ph.D. in EVS
+096999425,Rachel Anderson,Department head,Masters in Journalism
+169496340,Grace Carter,Senior Lecturer,Ph.D. in Political Sci.
+123145172,Matthew Mitchell,Professor,Masters in Education
+594329802,Jennifer Lee,Department head,Ph.D. in Theology
+237959910,Luke Turner,Assistant Professor,Masters in Creative Writing
+914797221,Scarlett Phillips,Senior Lecturer,Ph.D. in History
+260443056,Madison Campbell,Professor,Masters in Philosophy
+850965927,Anthony Parker,Associate Professor,Ph.D. in Sociology
+370006622,Amanda Clark,Department head,Masters in Cognitive Science
+917141329,Elizabeth Edwards,Senior Lecturer,Ph.D. in Law
+855400142,David Collins,Professor,Masters in Mech. Engineering
